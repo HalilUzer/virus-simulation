@@ -1,1 +1,1 @@
-# virus-simulation
+# Virus Simulation
