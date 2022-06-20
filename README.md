@@ -24,4 +24,6 @@ Simulation will write an output.txt file which will show the infected and died e
 situation of the habitat. Also, after each turn you will fill another file “turns.txt”. This file shows a
 brief outcome for each turn.
 
-Example of input.txt and output.txt added to repo.
+There must be a INPUT.txt file in same folder with executable.
+
+Example of INPUT.txt, OUTPUT.txt and TURNS.txt added to repo.
