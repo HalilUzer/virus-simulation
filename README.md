@@ -27,3 +27,5 @@ brief outcome for each turn.
 There must be a INPUT.txt file in same folder with executable.
 
 Example of INPUT.txt, OUTPUT.txt and TURNS.txt added to repo.
+
+**WARNING:** This project one of the first big project I coded. So there is no naming convention, no proper use of OOP. In the future im plannig to rewrite to see my progress but for now sorry for mess XD.
